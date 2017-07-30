@@ -1,0 +1,6 @@
+c:\users\zrrcj\documents\visual studio 2013\Projects\love\love\bin\love.dll.config
+c:\users\zrrcj\documents\visual studio 2013\Projects\love\love\bin\love.dll
+c:\users\zrrcj\documents\visual studio 2013\Projects\love\love\bin\love.pdb
+c:\users\zrrcj\documents\visual studio 2013\Projects\love\love\obj\Debug\love.csprojResolveAssemblyReference.cache
+c:\users\zrrcj\documents\visual studio 2013\Projects\love\love\obj\Debug\love.dll
+c:\users\zrrcj\documents\visual studio 2013\Projects\love\love\obj\Debug\love.pdb
